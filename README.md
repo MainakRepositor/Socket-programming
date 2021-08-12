@@ -1,5 +1,5 @@
 # Socket-programming
-Simple server and client using python socket and declarative programming
+### Simple server and client using C and Python. Works best in Linux Environment in any linux distro and even AWS instances. GCC must be present in compiler for C codes and pip must be present to execute Python packages
 
 ## Table of Contents
 | S.No. | Program Name | C | Python |
