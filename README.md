@@ -4,8 +4,8 @@ Simple server and client using python socket and declarative programming
 ## Table of Contents
 | S.No. | Program Name | C | Python |
 |-------|--------------|---|--------|
-| 1 | Simple Chat Application | [link]() | [link]() |
-| 2 | Simple Chat Application | [link]() | TBD |
-| 3 | Simple Chat Application | [link]() | TBD |
+| 1 | Simple Chat Application | [link](https://github.com/MainakRepositor/Socket-programming/tree/master/C/Chat%20Application) | [link](https://github.com/MainakRepositor/Socket-programming/tree/master/Python/Chat%20App) |
+| 2 | Simple Chat Application | [link](https://github.com/MainakRepositor/Socket-programming/tree/master/C/Day%20Time) | TBD |
+| 3 | Simple Chat Application | [link](https://github.com/MainakRepositor/Socket-programming/tree/master/C/UDP%20Echo) | TBD |
 
 
