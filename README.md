@@ -1,5 +1,5 @@
 # Socket-programming
-Simple server and client using python socket and declarative programming
+Simple server and client using C and python socket programming
 
 ## Table of Contents
 
